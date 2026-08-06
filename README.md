@@ -1,5 +1,9 @@
 # 👨‍💻 About Me:
-🔭 I’m currently working on Grocery List App<br>🌱 I’m currently learning programming languages
+🔭 I’m currently working on:
+- [f1-strategy-game](https://github.com/ZelimV/f1-strategy-game)
+- [MapHire](https://github.com/ZelimV/MapHire)
+- [vpn-project](https://github.com/ZelimV/vpn-project)<br>
+🌱 I’m currently learning programming languages
 
 
 ## 🌐 Socials:

@@ -21,7 +21,7 @@ I’m currently learning programming languages
 [![](https://visitcount.itsvg.in/api?id=ZelimV&icon=9&color=9)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/zelim) 
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zelim" data-color="#102457" data-emoji=""  data-font="Lato" data-text="Inject more coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

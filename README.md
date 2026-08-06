@@ -23,5 +23,7 @@ I’m currently learning programming languages
   ## 💰 You can help me by Donating
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zelim" data-color="#102457" data-emoji=""  data-font="Lato" data-text="Inject more coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zelim" data-color="#102457" data-emoji=""  data-font="Lato" data-text="Inject more coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

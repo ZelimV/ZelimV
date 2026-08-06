@@ -4,7 +4,7 @@
 - [MapHire](https://github.com/ZelimV/MapHire)
 - [vpn-project](https://github.com/ZelimV/vpn-project)
 <br>
-I’m currently learning programming languages
+I’m currently diving deeper into TypeScript, advanced Docker, and PostgreSQL architecture.
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zelimv) 
